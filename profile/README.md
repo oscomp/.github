@@ -14,5 +14,5 @@
 - 具有 "projXXX-YYY" 名称的仓库是OS比赛功能赛道的可选题目。
 
 ## 相关网站
-- [OS比赛](https://os.educg.net/)
+- [全国大学生OS比赛官网](https://os.educg.net/)
 - [比赛相关资源和信息](https://github.com/oscomp/os-competition-info)
