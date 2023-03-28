@@ -12,7 +12,7 @@
 - [2023比赛章程](https://gitlab.eduxiji.net/csc-os/os2023/-/blob/master/OS-%E7%AB%A0%E7%A8%8B.pdf)
 - [2023比赛技术方案](https://gitlab.eduxiji.net/csc-os/os2023/-/blob/master/OS-%E6%8A%80%E6%9C%AF%E6%96%B9%E6%A1%88.pdf)
 - 具有 "projXXX-YYY" 名称的仓库是OS比赛功能赛道的可选题目。
-- 
+
 ## 相关网站
 - [OS比赛](https://os.educg.net/)
 - [比赛相关资源和信息](https://github.com/oscomp/os-competition-info)
