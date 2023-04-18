@@ -24,3 +24,6 @@
 ## 相关网站
 - [全国大学生OS比赛官网](https://os.educg.net/)
 - [比赛相关资源和信息](https://github.com/oscomp/os-competition-info)
+- [LearningOS开源社区](https://github.com/learningos)
+- [syswonder开源社区](https://syswonder.org/)
+- [rCoreOS开源社区](https://github.com/rcore-os)
