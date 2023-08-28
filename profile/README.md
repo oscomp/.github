@@ -12,6 +12,7 @@
 **- 请还没加入“2023OS功能赛道导师群”的专家，及时与比赛技术支持组的韩冰老师（微信ID: AiXi_0514 QQ ID: 3479261167）联系，她会帮助大家加入导师群。**
 
 ## 新闻：
+- 2023.08.23：操作系统比赛线下决赛在中山大学进行，比赛圆满结束。获奖名单请访问[全国大学生OS比赛官网](https://os.educg.net/)。
 - 2023.05.07: 报名截止。内核赛道报名122支队伍，功能赛道报名257支队伍。
 - 2023.03.28：OS功能赛道题目更新&增加。
 - 2023.03.27：[鼓励高职高专院校学生报名参赛](https://os.educg.net/)。
@@ -23,9 +24,13 @@
 - [2023比赛技术方案](https://gitlab.eduxiji.net/csc-os/os2023/-/blob/master/OS-%E6%8A%80%E6%9C%AF%E6%96%B9%E6%A1%88.pdf)
 - 具有 "projXXX-YYY" 名称的仓库是OS比赛功能赛道的可选题目。
 
+## 在研/计划的项目
+- [开源实验小项目招新](https://github.com/orgs/rcore-os/discussions/categories/ideas)，可作为本科或研究生毕设课题，欢迎报名并参加！
+
 ## 相关网站
-- [全国大学生OS比赛官网](https://os.educg.net/)
-- [比赛相关资源和信息](https://github.com/oscomp/os-competition-info)
-- [LearningOS开源社区](https://github.com/learningos)
-- [syswonder开源社区](https://syswonder.org/)
-- [rCoreOS开源社区](https://github.com/rcore-os)
+- [全国大学生OS比赛官网](https://os.educg.net/)，所有参赛作品开源，方便大家学习，欢迎参加比赛！
+- [比赛相关资源和信息](https://github.com/oscomp/os-competition-info)，比赛相关的软硬件学习资料
+- [LearningOS开源社区](https://github.com/learningos)，培养操作系统专业人才
+- [syswonder开源社区](https://syswonder.org/)，面向泛在技术的操作系统探索
+- [rCoreOS开源社区](https://github.com/rcore-os)，面向新型安全高性能操作系统探索与实践
+
