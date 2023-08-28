@@ -33,4 +33,5 @@
 - [LearningOS开源社区](https://github.com/learningos)，培养操作系统专业人才
 - [syswonder开源社区](https://syswonder.org/)，面向泛在技术的操作系统探索
 - [rCoreOS开源社区](https://github.com/rcore-os)，面向新型安全高性能操作系统探索与实践
+- [智能网联汽车创新中心训练营:开源操作系统](https://github.com/cicvedu)，面向智能驾驶领域的系统软件开发培训
 
