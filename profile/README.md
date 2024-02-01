@@ -28,8 +28,8 @@
 
 ## 重要信息：
 - 比赛期间每周六下午有技术报告，请关注比赛官网/微信公众号等信息。
-- [2023比赛章程](https://gitlab.eduxiji.net/csc-os/os2023/-/blob/master/OS-%E7%AB%A0%E7%A8%8B.pdf)
-- [2023比赛技术方案](https://gitlab.eduxiji.net/csc-os/os2023/-/blob/master/OS-%E6%8A%80%E6%9C%AF%E6%96%B9%E6%A1%88.pdf)
+- [2024比赛章程](https://mp.weixin.qq.com/s/58_Ci92WU0luJpOxfEb-yQ)
+- [2024比赛技术方案](https://mp.weixin.qq.com/s/iSGcboaJINTVQ3Xnbj7eqA)
 - [比赛相关资源和信息](https://github.com/oscomp/os-competition-info)：比赛相关的软硬件学习资料
 
 ## 在研/计划的项目
