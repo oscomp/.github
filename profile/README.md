@@ -30,7 +30,7 @@
 - 比赛期间每周六下午有技术报告，请关注比赛官网/微信公众号等信息。
 - [2024比赛章程](https://mp.weixin.qq.com/s/58_Ci92WU0luJpOxfEb-yQ)
 - [2024比赛技术方案](https://mp.weixin.qq.com/s/iSGcboaJINTVQ3Xnbj7eqA)
-- [比赛相关资源和信息](https://github.com/oscomp/os-competition-info)：比赛相关的软硬件学习资料
+- [2024比赛相关资源和信息](https://github.com/oscomp/os-competition-info)：比赛相关的软硬件学习资料
 
 ## 在研/计划的项目
 - [开源实验小项目招新](https://github.com/orgs/rcore-os/discussions/categories/ideas)，可作为本科或研究生毕设课题，欢迎报名并参加！
