@@ -4,6 +4,7 @@
 
 ### 内核实现赛道
 - **在 https://github.com/oscomp/testsuits-for-oskernel 包含往年内核实现赛道的测试用例。**
+- **[比赛相关资源和信息](https://github.com/oscomp/os-competition-info)：比赛相关的软硬件学习资料**
 
 ### 功能挑战赛道 
 - **在 https://github.com/oscomp 网址下，具有 "projXXX-YYY" 名称的Public类型的仓库是OS比赛功能挑战赛道的可选题目，参加此类赛道的学生队伍可以选择。**  
@@ -29,14 +30,13 @@
 - 比赛期间每周六下午有技术报告，请关注比赛官网/微信公众号等信息。
 - [2023比赛章程](https://gitlab.eduxiji.net/csc-os/os2023/-/blob/master/OS-%E7%AB%A0%E7%A8%8B.pdf)
 - [2023比赛技术方案](https://gitlab.eduxiji.net/csc-os/os2023/-/blob/master/OS-%E6%8A%80%E6%9C%AF%E6%96%B9%E6%A1%88.pdf)
-- 具有 "projXXX-YYY" 名称的仓库是OS比赛功能赛道的可选题目。
+
 
 ## 在研/计划的项目
 - [开源实验小项目招新](https://github.com/orgs/rcore-os/discussions/categories/ideas)，可作为本科或研究生毕设课题，欢迎报名并参加！
 
 ## 相关网站
 - [全国大学生OS比赛官网](https://os.educg.net/)，所有参赛作品开源，方便大家学习，欢迎参加比赛！
-- [比赛相关资源和信息](https://github.com/oscomp/os-competition-info)，比赛相关的软硬件学习资料
 - [LearningOS开源社区](https://github.com/learningos)，培养操作系统专业人才
 - [syswonder开源社区](https://syswonder.org/)，面向泛在技术的操作系统探索
 - [rCoreOS开源社区](https://github.com/rcore-os)，面向新型安全高性能操作系统探索与实践
