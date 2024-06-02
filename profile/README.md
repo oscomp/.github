@@ -4,6 +4,8 @@
 
 ### 内核实现赛道
 - **在 https://github.com/oscomp/testsuits-for-oskernel 包含往年内核实现赛道的测试用例。**
+  - [2024内核实现赛道-RISCV测例](https://github.com/oscomp/testsuits-for-oskernel/tree/final-2024-rv)
+  - [2024内核实现赛道-LoongArch测例](https://github.com/oscomp/testsuits-for-oskernel/tree/final-2024-la)
 
 ### 功能挑战赛道 
 - **在 https://github.com/oscomp 网址下，具有 "projXXX-YYY" 名称的Public类型的仓库是OS比赛功能挑战赛道的可选题目，参加此类赛道的学生队伍可以选择。**  
