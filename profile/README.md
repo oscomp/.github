@@ -7,7 +7,7 @@
   - [2024内核实现赛道-RISCV测例](https://github.com/oscomp/testsuits-for-oskernel/tree/final-2024-rv)
   - [2024内核实现赛道-LoongArch测例](https://github.com/oscomp/testsuits-for-oskernel/tree/final-2024-la)
 
-**注：2024决赛阶段的内核实现赛道比赛，测试用例所在文件系统格式从FAT32改为了Ext4， [提供的C和Rust的Ext4库](https://github.com/oscomp/os-competition-info/blob/main/ref-info.md#ext4%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E5%8F%82%E8%80%83%E5%AE%9E%E7%8E%B0)与具体OS无关，经过适配后，可集成到各种OS中。**
+**注：2024决赛阶段的内核实现赛道比赛，测试用例所在文件系统格式从FAT32改为了Ext4， [比赛提供的C和Rust的Ext4库](https://github.com/oscomp/os-competition-info/blob/main/ref-info.md#ext4%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E5%8F%82%E8%80%83%E5%AE%9E%E7%8E%B0)与具体OS无关，经过适配后，可集成到各种OS中。**
 
 ### 功能挑战赛道 
 - **在 https://github.com/oscomp 网址下，具有 "projXXX-YYY" 名称的Public类型的仓库是OS比赛功能挑战赛道的可选题目，参加此类赛道的学生队伍可以选择。**  
