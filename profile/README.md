@@ -3,7 +3,7 @@
 ## **参赛学生提醒：**  
 
 ### 内核实现赛道
-- **在 https://github.com/oscomp/testsuits-for-oskernel 包含往年内核实现赛道的测试用例。**
+- **在 https://github.com/oscomp/testsuits-for-oskernel 包含2024年内核实现赛道的测试用例。**
   - [2024内核实现赛道-RISCV测例](https://github.com/oscomp/testsuits-for-oskernel/tree/final-2024-rv)
   - [2024内核实现赛道-LoongArch测例](https://github.com/oscomp/testsuits-for-oskernel/tree/final-2024-la)
 
