@@ -34,7 +34,7 @@
 - [全国大学生OS比赛官网](https://os.educg.net/)，所有参赛作品开源，方便大家学习，欢迎参加比赛！
 - [LearningOS开源社区](https://github.com/learningos)，培养操作系统专业人才
 - [syswonder开源社区](https://syswonder.org/)，面向泛在技术的操作系统探索
-- [rCoreOS开源社区](https://github.com/rcore-os)，面向新型安全高性能操作系统探索与实践
+- [唐图(rCoreOS)开源社区](https://github.com/rcore-os)，开展多构型内核组件化设计与实现的教学与科研探索
 - [智能网联汽车创新中心训练营:开源操作系统](https://github.com/cicvedu)，面向智能驾驶领域的系统软件开发培训
 - [组件化操作系统-arceos开源社区](https://github.com/arceos-org/)，用组件化思路设计的unikernel等
 - [构建操作系统的内核组件开源社区](https://github.com/kern-crates)，可用于构建各种内核的组件集合
