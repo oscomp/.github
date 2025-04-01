@@ -5,6 +5,7 @@
 - 2024.11.16：2024年度全国大学生操作系统比赛总结&2025年度全国大学生操作系统比赛准备会召开
  
 ### 内核实现赛道
+- [**2025年OS内核实现赛道排行榜实时**](https://course.educg.net/pages/contest/contest_rank.jsp?contestID=R0LIpo5ERIA&my=false&contestCID=0#contestSubAn)
 - **在 https://github.com/oscomp/testsuits-for-oskernel/tree/pre-2025/ 包含当前准备2025年决赛阶段内核实现赛道的测试用例（RISC-V和LoongArch测例统一，具体将进一步更新）。**
 
 **注：2025内核实现赛道比赛，测试用例所在文件系统格式为Ext4， 测试用例没用到Ext4的高级功能（如系统掉电/崩溃的可靠性保障等）。[比赛提供的C和Rust的Ext4库](https://github.com/oscomp/os-competition-info/blob/main/ref-info.md#ext4%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E5%8F%82%E8%80%83%E5%AE%9E%E7%8E%B0)与具体OS无关，并给出了适配这些库的某些OS参考。这些库经过适配后，可集成到各种C或Rust-based的OS中。**
