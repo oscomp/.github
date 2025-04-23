@@ -29,7 +29,7 @@
 ## 重要信息：
 
 ## 在研/计划的项目
-- [开源实验小项目招新](https://github.com/orgs/rcore-os/discussions/categories/ideas)，可作为本科或研究生毕设课题，欢迎报名并参加！
+- [开源实验小项目招新](https://github.com/orgs/rcore-os/discussions/categories/ideas)，可作为本科或研究生的实习/毕设/科研课题，以及工程师实训课题，欢迎报名并参加！
 
 ## 相关网站
 - [全国大学生OS比赛官网](https://os.educg.net/)，所有参赛作品开源，方便大家学习，欢迎参加比赛！
