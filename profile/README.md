@@ -1,5 +1,5 @@
 # 2025年全国大学生操作系统比赛
-- 2025.06.30：2025年全国大学生操作系统比赛初赛结束。可访问学习各参赛队的[2025OS比赛内核赛道初赛作品](https://docs.qq.com/sheet/DUGhKa2xTdnJYYkxm?tab=000001)和[2025OS比赛功能赛道初赛作品](https://docs.qq.com/sheet/DUGNwbVJYV3dGcE5E?tab=000001)。
+- 2025.06.30：2025年全国大学生操作系统比赛初赛结束。可访问学习各参赛队的[2025OS比赛内核赛道初赛作品](https://docs.qq.com/sheet/DUGhKa2xTdnJYYkxm?tab=000001)和[2025OS比赛功能赛道初赛作品](https://docs.qq.com/sheet/DUGNwbVJYV3dGcE5E?tab=000001)
 - 2025.02.28：2025年全国大学生操作系统比赛启动并开启报名。可访问[OS比赛官网](https://os.educg.net/)了解更多信息并报名。
 - 2025.02.23：2025年全国大学生操作系统比赛的章程和技术方案初步完成。
 - 2025.02.22：发布[**与2025OS比赛内核实现赛道相关的一些OS实例/教程的参考信息**](https://github.com/oscomp/os-competition-info/blob/main/ref-info.md)
